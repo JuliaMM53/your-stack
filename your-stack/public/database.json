@@ -2,46 +2,91 @@
   {
     "nome": "Javascript",
     "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-  },
-  {
-    "nome": "Java",
-    "descricao": "Linguagem de programação",
-    "imagem": "/img/js.png"
-  },
-  {
-    "nome": "C#",
-    "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-  },
-  {
-    "nome": "C++",
-    "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
-  },
-  {
-    "nome": "C",
-    "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    "imagem": "/img/JavaScript.png"
   },
   {
     "nome": "Python",
     "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    "imagem": "/img/Python.png"
   },
   {
-    "nome": "PHP",
+    "nome": "Java",
     "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    "imagem": "/img/Java.png"
   },
   {
-    "nome": "Ruby",
+    "nome": "C++",
     "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    "imagem": "/img/C++.png"
+  },
+  {
+    "nome": "C#",
+    "descricao": "Linguagem de programação",
+    "imagem": "/img/C#.png"
   },
   {
     "nome": "Swift",
     "descricao": "Linguagem de programação",
-    "imagem": "https://www.google.com.br/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
+    "imagem": "/img/Swift.png"
+  },
+  {
+    "nome": "MySQL",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/Mysql.png"
+  },
+  {
+    "nome": "PlanetScale",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/PlanetScale.png"
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/Postgresql.png"
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/MongoDB.png"
+  },
+  {
+    "nome": "SQLite",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/SQLite.png"
+  },
+  {
+    "nome": "MariaDB",
+    "descricao": "Banco de Dados",
+    "imagem": "/img/MariaDB.png" 
+  },
+  {
+    "nome": "React JS",
+    "descricao": "Framework",
+    "imagem": "/img/React.png"
+  },
+  {
+    "nome": "Angular JS",
+    "descricao": "Framework",
+    "imagem": "/img/Angular.png"
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework",
+    "imagem": "/img/Vue.png"
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework",
+    "imagem": "/img/Next.png"
+  },
+  {
+    "nome": "Flask",
+    "descricao": "Framework",
+    "imagem": "/img/Flask.png"
+  },
+  {
+    "nome": "Node JS",
+    "descricao": "Framework",
+    "imagem": "/img/NOde.png"
   }
 ]
